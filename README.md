@@ -47,10 +47,10 @@ To be more sincere and time consuming towards of their work schedule.
 Our main purpose behind developing this application is to avoid the distraction created by the notifications.
 Hence, we have also added few additional features to make this application effective and user friendly. The application will prove beneficial. As a future work for this project, this App can be developed for different platforms like Windows, Java and iOS.
 
-# System Requirements: 
+# System Requirements
 Back End: SQL Lite is a relational database management system contained in a C programming library. SQLite is a popular choice as embedded database software for local/client storage in application software such as web browsers. It is arguably the most widely deployed database engine, as it is used today by several widespread browsers, operating systems, and embedded systems (such as mobile phones), among others. SQLite has bindings to many programming languages.
 
-# Operating System:
+# Operating System
 Android 5.0 "Lollipop”
 Android 6.0 "Marshmallow”
 Android 7.0 "Nougat”
