@@ -1,8 +1,7 @@
 # Productivity_App
 
 # Screenshots:
-![image](https://user-images.githubusercontent.com/75751123/188732650-d5e1e6d5-e907-4a81-b1bb-8c54a2b16b7e.png)
-
+![image](https://user-images.githubusercontent.com/75751123/188735861-9ce0d67f-a856-4fed-af5e-ddbc8998ef26.png)
 ![image](https://user-images.githubusercontent.com/75751123/188734544-513d3a40-9877-4427-87f2-0b3b0808b5d9.png)
 ![image](https://user-images.githubusercontent.com/75751123/188734695-e9e85ace-49f2-4d35-93e0-ece7886f851d.png)
 ![image](https://user-images.githubusercontent.com/75751123/188734794-98959097-2635-4d86-b93b-c4ad84c8f8c0.png)
