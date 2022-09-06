@@ -59,6 +59,9 @@ Android 9.0 "Pie”
 
 # References
 ⦁	[1] Shao Guo-Hong, “Application Development Research Based on Android Platform” , 2014 7th International Conference on Intelligent Computation Technology and Automation, 2014. 
+
 ⦁	[2] Jianye Liu, Jiankun Yu, “Research on Development of Android Applications”, 2011 Fourth International Conference on Intelligent Networks and Intelligent Systems ,2011
-⦁	[3] M. Swain, J. A. Anderson, R. Korrapti, N. K. Swain “Database programming using Java”, Proceedings IEEE South east Con 2002 (Cat. No.02CH37283), 2002.   
-⦁	[5] Robi Grgurina, Goran Brestovac and Tihana Galinac Grbac, “Development Environment for Android Application Development: an Experience Report”, MIPRO 2011, May 23-27, 2011 
+
+⦁	[3] M. Swain, J. A. Anderson, R. Korrapti, N. K. Swain “Database programming using Java”, Proceedings IEEE South east Con 2002 (Cat. No.02CH37283), 2002.  
+
+⦁	[4] Robi Grgurina, Goran Brestovac and Tihana Galinac Grbac, “Development Environment for Android Application Development: an Experience Report”, MIPRO 2011, May 23-27, 2011 
