@@ -1,6 +1,6 @@
 # Productivity_App
 
-# Screenshots:
+# Screenshots
 ![image](https://user-images.githubusercontent.com/75751123/188735861-9ce0d67f-a856-4fed-af5e-ddbc8998ef26.png)
 ![image](https://user-images.githubusercontent.com/75751123/188734544-513d3a40-9877-4427-87f2-0b3b0808b5d9.png)
 ![image](https://user-images.githubusercontent.com/75751123/188734695-e9e85ace-49f2-4d35-93e0-ece7886f851d.png)
@@ -11,10 +11,10 @@
 ![image](https://user-images.githubusercontent.com/75751123/188731002-aa7ee38a-5077-4a28-8de5-fbb8ad2405f2.png)
 ![image](https://user-images.githubusercontent.com/75751123/188731102-27aa2b6e-9b21-47fd-8023-e0ab52afe35d.png)
 
-# Abstract: 
+# Abstract
 Nowadays, there is large population which is suffering from smart phone addiction, especially in college and school students. So now the smart phone addiction can be seen differently from the Internet addiction. In this project we have tried to control the addiction of the people. Firstly, we are doing the analysis in the user’s phone, then we find whether the user is addicted to certain apps or not, then we generate the report. Afterwards as per report an application designed for the betterment of user to avoid inconsistency occur by social media platforms while they are accessing it. It is an android based application that is coded in Java and PHP language with the help of Android Studio. Here, the user gets notification on the home screen when the handset connects to network i.e. cellular data or Wi-Fi network. Afterwards a box will be pop-up where the user try to click on the notification of any particular selected app displayed on the locked screen where it shows the” Go Back “option to the user and that locks it to give the reply to the sender to continue their work to maintain consistency.
 
-# Problem Statement: 
+# Problem Statement
 Connection Error Occurs during logging into the application this should be improved.
 
 # WORKING
@@ -25,6 +25,8 @@ As soon as you open this application you’ll get the login screen. In order to 
 ⦁	Email id
 ⦁	Mobile number
 ⦁	Address 
+
+#References
 
 When you successfully login into the application you will find a screen that collects list of applications that you have in your mobile. Select the application we you want to disable for replying.
 If any message arrives on the selected application and as soon as you click on the message you will get a screen that states “ Your application is block by study application please turn off the services in order to open this application Go Back “
@@ -54,3 +56,9 @@ Android 6.0 "Marshmallow”
 Android 7.0 "Nougat”
 Android 8.0 "Oreo”
 Android 9.0 "Pie”
+
+# References
+⦁	[1] Shao Guo-Hong, “Application Development Research Based on Android Platform” , 2014 7th International Conference on Intelligent Computation Technology and Automation, 2014. 
+⦁	[2] Jianye Liu, Jiankun Yu, “Research on Development of Android Applications”, 2011 Fourth International Conference on Intelligent Networks and Intelligent Systems ,2011
+⦁	[3] M. Swain, J. A. Anderson, R. Korrapti, N. K. Swain “Database programming using Java”, Proceedings IEEE South east Con 2002 (Cat. No.02CH37283), 2002.   
+⦁	[5] Robi Grgurina, Goran Brestovac and Tihana Galinac Grbac, “Development Environment for Android Application Development: an Experience Report”, MIPRO 2011, May 23-27, 2011 
