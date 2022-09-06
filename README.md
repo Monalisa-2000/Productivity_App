@@ -2,10 +2,11 @@
 
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/75751123/188732650-d5e1e6d5-e907-4a81-b1bb-8c54a2b16b7e.png)
-![WhatsApp Image 2022-09-07 at 01 42 41](https://user-images.githubusercontent.com/75751123/188730239-5f804628-4dd3-431e-95a3-4622fbaf4186.jpeg)
-![WhatsApp Image 2022-09-07 at 01 42 41 (1)](https://user-images.githubusercontent.com/75751123/188730287-f57a4c8d-3680-4161-aadf-1c1442c5c8c2.jpeg)
-![WhatsApp Image 2022-09-07 at 01 42 40](https://user-images.githubusercontent.com/75751123/188730444-d8c6bdff-bcbb-49fe-a9dd-ff8b92edb65a.jpeg)
-![WhatsApp Image 2022-09-07 at 01 42 40 (1)](https://user-images.githubusercontent.com/75751123/188730495-175b2a5f-257b-437d-8a81-c9c05faef875.jpeg)
+
+![image](https://user-images.githubusercontent.com/75751123/188734544-513d3a40-9877-4427-87f2-0b3b0808b5d9.png)
+![image](https://user-images.githubusercontent.com/75751123/188734695-e9e85ace-49f2-4d35-93e0-ece7886f851d.png)
+![image](https://user-images.githubusercontent.com/75751123/188734794-98959097-2635-4d86-b93b-c4ad84c8f8c0.png)
+![image](https://user-images.githubusercontent.com/75751123/188735030-d413fa89-b76d-4850-9589-82d887ea1dce.png)
 ![image](https://user-images.githubusercontent.com/75751123/188730699-c2f07535-591e-466e-a104-ca1db836531e.png)
 ![image](https://user-images.githubusercontent.com/75751123/188730909-c9b1cf56-c0a2-43de-8223-8c608d684afe.png)
 ![image](https://user-images.githubusercontent.com/75751123/188731002-aa7ee38a-5077-4a28-8de5-fbb8ad2405f2.png)
