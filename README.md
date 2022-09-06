@@ -17,7 +17,7 @@ Nowadays, there is large population which is suffering from smart phone addictio
 # Problem Statement
 Connection Error Occurs during logging into the application this should be improved.
 
-# WORKING
+# Working
 
 As soon as you open this application you’ll get the login screen. In order to use this application you have to login in to the application. For login we have kept two attributes (Name and Password).  For login purpose you have to register first. For registration we have kept following attributes:
 ⦁	Name
@@ -26,7 +26,7 @@ As soon as you open this application you’ll get the login screen. In order to 
 ⦁	Mobile number
 ⦁	Address 
 
-#References
+# Abstract
 
 When you successfully login into the application you will find a screen that collects list of applications that you have in your mobile. Select the application we you want to disable for replying.
 If any message arrives on the selected application and as soon as you click on the message you will get a screen that states “ Your application is block by study application please turn off the services in order to open this application Go Back “
@@ -38,12 +38,12 @@ In order to set the schedule again you have to go to the menu and select View sc
 This will help you remember your work, events and to improve your daily routine. Basically this feature will help you remember your whole day schedule.
 We have also given the logout button you can also logout form this application. 
 
-# Objective:  
+# Objective
 The main objective of our team to destroy the distraction of the user which are coming through   various social applications when that get notified to them and that’ll help them to focus on their work and they will be productive.
 To increase the level of productivity in the human Environment.
 To be more sincere and time consuming towards of their work schedule.
 
-# Scope: 
+# Scope
 Our main purpose behind developing this application is to avoid the distraction created by the notifications.
 Hence, we have also added few additional features to make this application effective and user friendly. The application will prove beneficial. As a future work for this project, this App can be developed for different platforms like Windows, Java and iOS.
 
