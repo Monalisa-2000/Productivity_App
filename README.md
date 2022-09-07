@@ -57,6 +57,9 @@ Android 7.0 "Nougat”
 Android 8.0 "Oreo”
 Android 9.0 "Pie”
 
+#Publications
+![IRJET-Monalisa Khanda](https://user-images.githubusercontent.com/75751123/188960045-024f5a99-9cd0-4d5d-9847-2463467b5425.jpg)
+
 # References
 ⦁	[1] Shao Guo-Hong, “Application Development Research Based on Android Platform” , 2014 7th International Conference on Intelligent Computation Technology and Automation, 2014. 
 
