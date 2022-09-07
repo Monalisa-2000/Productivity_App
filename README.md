@@ -57,7 +57,8 @@ Android 7.0 "Nougat”
 Android 8.0 "Oreo”
 Android 9.0 "Pie”
 
-#Publications
+# Publications
+
 ![IRJET-Monalisa Khanda](https://user-images.githubusercontent.com/75751123/188960045-024f5a99-9cd0-4d5d-9847-2463467b5425.jpg)
 
 # References
