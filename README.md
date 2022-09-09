@@ -26,7 +26,7 @@ As soon as you open this application you’ll get the login screen. In order to 
 ⦁	Mobile number
 ⦁	Address 
 
-# Abstract
+# Description
 
 When you successfully login into the application you will find a screen that collects list of applications that you have in your mobile. Select the application we you want to disable for replying.
 If any message arrives on the selected application and as soon as you click on the message you will get a screen that states “ Your application is block by study application please turn off the services in order to open this application Go Back “
